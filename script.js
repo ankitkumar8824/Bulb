@@ -13,6 +13,7 @@ function btnOff(){
     document.getElementById("img").src="of.png";
     document.getElementById("off").style.background="yellow"
     document.getElementById("off").style.color="black"
+    
         document.getElementById("on").style.background="white"
     document.getElementById("on").style.color="black"
 
