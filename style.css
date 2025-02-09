@@ -1,0 +1,15 @@
+.container{
+    text-align: center;
+}
+.btn button{
+    width: 50px;
+    height: 30px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-inline: 20px;
+}
+img{
+    height:500px;
+    width: 500px;
+    margin-bottom: 30px;
+}
